@@ -25,6 +25,7 @@ for bbox in bboxes:
         0.9,
         (0, 255, 0),
         2)
+
 cv2.imwrite('out.jpg', cv_img)
 
 
