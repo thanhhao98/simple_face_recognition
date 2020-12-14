@@ -1,6 +1,7 @@
 # simple_face_recognition
 ## Note
 Let VN_celeb in root folder of project
+```
 |-VN_celeb
 |-arcface
     |-weights
@@ -8,6 +9,7 @@ Let VN_celeb in root folder of project
 |-requirements.txt
 |-visual.py
 |-benchmark_recognition.py
+```
 ## Dependencies
 ```
 pip install -r requirements.txt
